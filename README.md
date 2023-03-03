@@ -1,2 +1,2 @@
 # UltimateBattleshipGame
-Ultimate battleShip game implementation in Python.
+Visualition of cocktail using straw in Python.
